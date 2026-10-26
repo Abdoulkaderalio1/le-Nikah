@@ -1,0 +1,6 @@
+{
+  "name": "Chemin pour le Nikah - Rencontre Matrimoniale au Niger",
+  "description": "Plateforme islamique sérieuse pour le mariage (Nikah) au Niger. Profils vérifiés, respect de la vie privée, paiements sécurisés MyNita et Amanata, et suivi WhatsApp Business officiel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
